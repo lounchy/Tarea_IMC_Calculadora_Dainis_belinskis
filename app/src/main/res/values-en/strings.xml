@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="bajo_peso">You are underweight.</string>
+    <string name="calcular">Calculate</string>
+    <string name="cm">(cm)</string>
+    <string name="comrueba_peso_altura">Check if you have entered your height and weight correctly</string>
+    <string name="cuidado">Watch out!</string>
+    <string name="desnutrido">You are malnourished.</string>
+    <string name="introduzca_su_altura">Enter your Height:</string>
+    <string name="introduzca_su_peso">Enter your Weight:</string>
+    <string name="kg">(kg)</string>
+    <string name="muy_bien">Very good!</string>
+    <string name="obesidad">You have obesity.</string>
+    <string name="peligroso">Dangerous!</string>
+    <string name="peso_ideal">You have ideal weight!</string>
+    <string name="sobrepeso">You are overweight.</string>
+    <string name="su_imc_es">Your BMI is:</string>
+    <string name="texto">To know if a person has an adequate weight, doctors calculate their body mass index (BMI).\n\nBMI = kg / m2</string>
+    <string name="urgentamente_visita_su_medico">Urgently visit your doctor!</string>
+    <string name="visita_su_medico">Visit your Doctor!</string>
+    <string name="error">Error! Check if you have correctly entered your height and weight.</string>
+    <string name="volver">Back</string>
+    <string name="pantalla_resultado">Result</string>
+</resources>

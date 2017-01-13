@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calcolatore BMI</string>
+    <string name="su_imc_es">Il tuo BMI è:</string>
+    <string name="kg">(kg)</string>
+    <string name="cm">(cm)</string>
+    <string name="bajo_peso">Si è sottopeso.</string>
+    <string name="calcular">calcolare</string>
+    <string name="comrueba_peso_altura">Controlla se hai inserito il tuo peso e altezza di attivazione corretta</string>
+    <string name="cuidado">Mi interessa!</string>
+    <string name="desnutrido">Tu sei malnutriti.</string>
+    <string name="introduzca_su_altura">Inserisci la tua altezza:</string>
+    <string name="introduzca_su_peso">Inserisci il tuo peso:</string>
+    <string name="muy_bien">Molto bene!</string>
+    <string name="obesidad">Hai l\'obesità.</string>
+    <string name="peligroso">Pericoloso!</string>
+    <string name="peso_ideal">Hai peso ideale!</string>
+    <string name="sobrepeso">Si è in sovrappeso.</string>
+    <string name="texto">Per scoprire se una persona ha un peso sano, i medici indece calcolano la loro massa corporea (BMI).\n\nBMI = kg / m2</string>
+    <string name="urgentamente_visita_su_medico">Urgentamente visitare il vostro medico!</string>
+    <string name="visita_su_medico">Visita il tuo medico!</string>
+    <string name="error">E \'stato un errore! Controllare se avete inserito la vostra altezza e peso.</string>
+    <string name="volver">Ritorno</string>
+    <string name="pantalla_resultado">Risultato</string>
+</resources>

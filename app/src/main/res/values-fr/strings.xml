@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculateur d\'IMC</string>
+    <string name="visita_su_medico">Consultez votre médecin!</string>
+    <string name="urgentamente_visita_su_medico">Urgentamente consulter votre médecin!</string>
+    <string name="texto">Pour savoir si une personne a un poids santé, les médecins calculent indece leur masse corporelle (IMC).\n\nIMC = kg / m2</string>
+    <string name="su_imc_es">"Votre IMC est: "</string>
+    <string name="sobrepeso">Vous êtes en surpoids.</string>
+    <string name="peso_ideal">"Usted tiene peso ideal! "</string>
+    <string name="peligroso">Dangerous!</string>
+    <string name="obesidad">Vous avez l\'obésité.</string>
+    <string name="muy_bien">Très bien!</string>
+    <string name="kg">(kg)</string>
+    <string name="introduzca_su_peso">Entrez votre poids:</string>
+    <string name="introduzca_su_altura">Entrez votre taille:</string>
+    <string name="desnutrido">Vous êtes souffrant de malnutrition.</string>
+    <string name="cuidado">Je me soucie!</string>
+    <string name="comrueba_peso_altura">Vérifiez si vous avez entré votre taille et votre poids activation correcte</string>
+    <string name="cm">(cm)</string>
+    <string name="calcular">Calculer</string>
+    <string name="bajo_peso">Vous êtes une insuffisance pondérale.</string>
+    <string name="error">Ce fut une erreur! Vérifiez si vous avez entré votre taille et votre poids.</string>
+    <string name="volver">Revenir</string>
+    <string name="pantalla_resultado">Résultat</string>
+</resources>

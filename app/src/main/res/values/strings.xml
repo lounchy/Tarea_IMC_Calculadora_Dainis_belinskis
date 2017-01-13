@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IMC calculadora</string>
+    <string name="pantalla_resultado">Resultado</string>
+
+    <string name="su_imc_es">Su IMC es : </string>
+
+    <string name="peligroso">Peligroso! </string>
+    <string name="cuidado">Cuidado! </string>
+    <string name="muy_bien">Muy bien! </string>
+
+
+    <string name="desnutrido">Usted está desnutrido. </string>
+    <string name="bajo_peso">Usted está bajo peso. </string>
+    <string name="peso_ideal">Usted tiene peso ideal! </string>
+    <string name="sobrepeso">Usted tiene sobrepeso. </string>
+    <string name="obesidad">Usted tiene obesidad. </string>
+
+
+    <string name="visita_su_medico">Visita su médico! </string>
+    <string name="urgentamente_visita_su_medico">Urgentamente visita su médico! </string>
+
+    <string name="comrueba_peso_altura">Comprueba si usted ha introducido su altura y su peso corectamente</string>
+    <string name="introduzca_su_altura">Introduzca su Altura:</string>
+    <string name="cm">(cm)</string>
+    <string name="introduzca_su_peso">Introduzca su Peso:</string>
+    <string name="kg">(kg)</string>
+    <string name="texto">Para saber si una persona tiene un peso adecuado, los médicos calculan su indece de masa corporal(IMC). \n\n IMC = kg/m2</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="error">Ha producido un error! Compruebe si usted ha introducido corectamente su altura y su peso.</string>
+    <string name="volver">Volver</string>
+
+</resources>
